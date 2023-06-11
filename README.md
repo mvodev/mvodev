@@ -1,4 +1,4 @@
-### I am Vadim Manushin frontend developer👋
+### I am Vadim Manushin frontend developer
 
 <!--
 **mvodev/mvodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
