@@ -2,8 +2,9 @@
 <div align="center">
   <h1 align="center">I am Vadim Manushin, frontend developer</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mvodev&theme=dark)](https://git.io/streak-stats)
+  <picture>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mvodev&theme=dark)](https://git.io/streak-stats)
+  </picture>
 </div>
 <!--
 **mvodev/mvodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
