@@ -2,10 +2,17 @@
 <div align="center">
   <h1 align="center">I am Vadim Manushin, frontend developer</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=mvodev&show_icons=true" />
-  </picture>
 </div>
+<div align="center">
+<picture>
+<source
+  srcset="http://github-readme-streak-stats.herokuapp.com?user=mvodev&theme=dark"
+  media="(prefers-color-scheme: dark)"
+@@ -13,6 +14,7 @@
+/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=mvodev&theme=dark" />
+</picture>
+ </div>
 <!--
 **mvodev/mvodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
