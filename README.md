@@ -3,7 +3,7 @@
   <h1 align="center">I am Vadim Manushin, frontend developer</h1>
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <picture>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mvodev&theme=dark)](https://git.io/streak-stats)
+    <img src="https://github-readme-stats.vercel.app/api?username=mvodev&show_icons=true" />
   </picture>
 </div>
 <!--
